@@ -10,7 +10,7 @@ This project focuses on analyzing and visualizing the historical stock performan
 - Generates dual-panel visualizations using `Plotly`:
   - Top panel: Historical share prices.
   - Bottom panel: Historical revenue trends with reversed Y-axis for clear interpretation.
-  - ![image](https://github.com/user-attachments/assets/00d421a0-e4e0-48c4-98ae-d3bc892ef2c9)
+  - ![image](https://github.com/user-attachments/assets/3bb340d9-8dae-45ec-a6dd-3432fa696174)
 - Interactive features include zooming, panning, and a date range slider. 
 
 This project provides a streamlined way to explore and understand the financial trends of companies like Tesla and GameStop.
