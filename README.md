@@ -1,4 +1,4 @@
-# **Project Title: Visualizing Stock Performance and Revenue Data**
+# **Visualizing Stock Performance and Revenue Data**
 
 This project focuses on analyzing and visualizing the historical stock performance and revenue data for selected companies. Using Python, it integrates financial data from Yahoo Finance and revenue data scraped from web sources, then creates interactive visualizations to compare trends.
 
